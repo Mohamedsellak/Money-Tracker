@@ -1,0 +1,4 @@
+version: 1
+bundleID: com.example.MoneyTracker
+infoPath: Info.plist
+iconPath: AppIcon.png
